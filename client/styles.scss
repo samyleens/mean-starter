@@ -1,5 +1,9 @@
 // You can add global styles to this file, and also import other style files
 
+// Import Bootstrap
+$primary: #9932CC;
+@import "~bootstrap/scss/bootstrap.scss";
+
 body {
   margin-bottom: 10px;
   margin-top: 15px;
